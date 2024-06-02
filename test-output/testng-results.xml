@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="13" passed="13" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-27T08:35:05 IST" name="Default suite" finished-at="2024-05-27T08:37:52 IST" duration-ms="166832">
+    <groups>
+    </groups>
+    <test started-at="2024-05-27T08:35:05 IST" name="Default test" finished-at="2024-05-27T08:37:52 IST" duration-ms="166832">
+      <class name="testng_script1.webpage_s1">
+        <test-method is-config="true" signature="opening_wedpage()[pri:0, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:35:05 IST" name="opening_wedpage" finished-at="2024-05-27T08:35:21 IST" duration-ms="15402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- opening_wedpage -->
+        <test-method signature="home_page()[pri:1, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:35:21 IST" name="home_page" finished-at="2024-05-27T08:35:21 IST" duration-ms="34" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home_page -->
+        <test-method signature="open_page()[pri:2, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:35:21 IST" name="open_page" finished-at="2024-05-27T08:35:31 IST" duration-ms="9752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- open_page -->
+        <test-method signature="services_page_container1()[pri:3, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:35:31 IST" name="services_page_container1" finished-at="2024-05-27T08:35:46 IST" duration-ms="15583" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- services_page_container1 -->
+        <test-method signature="scrollintoview1()[pri:4, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:35:46 IST" name="scrollintoview1" finished-at="2024-05-27T08:35:46 IST" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollintoview1 -->
+        <test-method signature="service_page_container2()[pri:5, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:35:46 IST" name="service_page_container2" finished-at="2024-05-27T08:36:14 IST" duration-ms="27751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- service_page_container2 -->
+        <test-method signature="scrollintoview2()[pri:6, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:36:14 IST" name="scrollintoview2" finished-at="2024-05-27T08:36:14 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollintoview2 -->
+        <test-method signature="service_page_container3()[pri:7, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:36:14 IST" name="service_page_container3" finished-at="2024-05-27T08:36:36 IST" duration-ms="21718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- service_page_container3 -->
+        <test-method signature="scrollintoview3()[pri:8, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:36:36 IST" name="scrollintoview3" finished-at="2024-05-27T08:36:36 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollintoview3 -->
+        <test-method signature="service_page_container4()[pri:9, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:36:36 IST" name="service_page_container4" finished-at="2024-05-27T08:37:04 IST" duration-ms="28133" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- service_page_container4 -->
+        <test-method signature="service_page_container5()[pri:10, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:37:04 IST" name="service_page_container5" finished-at="2024-05-27T08:37:25 IST" duration-ms="20644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- service_page_container5 -->
+        <test-method signature="service_page_container6()[pri:11, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:37:25 IST" name="service_page_container6" finished-at="2024-05-27T08:37:45 IST" duration-ms="19808" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- service_page_container6 -->
+        <test-method signature="scrollintoview4()[pri:12, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:37:45 IST" name="scrollintoview4" finished-at="2024-05-27T08:37:45 IST" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scrollintoview4 -->
+        <test-method signature="footer_tab()[pri:13, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:37:45 IST" name="footer_tab" finished-at="2024-05-27T08:37:51 IST" duration-ms="6366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- footer_tab -->
+        <test-method is-config="true" signature="closing_page()[pri:0, instance:testng_script1.webpage_s1@194bcebf]" started-at="2024-05-27T08:37:51 IST" name="closing_page" finished-at="2024-05-27T08:37:52 IST" duration-ms="1022" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing_page -->
+      </class> <!-- testng_script1.webpage_s1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
